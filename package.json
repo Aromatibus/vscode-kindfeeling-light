@@ -1,0 +1,45 @@
+{
+  "name": "kindfeeling",
+  "displayName": "Kindfeeling-light",
+  "description": "Kindfeeling. Elegant & Cute light theme.",
+  "version": "0.3.8",
+  "publisher": "Aromatibus",
+  "author": "Aromatibus (https://github.com/Aromatibus/)",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#FFEBF8",
+    "theme": "light"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "kindfeeling",
+    "elegant",
+    "cute"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kindfeeling",
+        "uiTheme": "vs",
+        "path": "./themes/kindfeeling-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aromatibus/vscode-kindfeeling-light"
+  },
+  "__metadata": {
+    "id": "46d432b6-063f-44c4-b40a-fd7c23c66a33",
+    "publisherId": "f2b50b11-54da-4462-bdd2-447a8d6fe641",
+    "publisherDisplayName": "Aromatibus"
+  }
+}
