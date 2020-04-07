@@ -150,7 +150,7 @@
     "editor.foreground": "#101010", // エディターのデフォルトの前景色
     "editorLineNumber.foreground": "#FF7F00", // エディターの行番号色
     "editorLineNumber.activeForeground": "#FF0086", // アクティブなエディターの行番号色
-    "editorCursor.background": "", // エディターカーソルの背景色ブロックカーソルが重なっている文字色をカスタマイズできます
+    // "editorCursor.background": "", // エディターカーソルの背景色ブロックカーソルが重なっている文字色をカスタマイズできます
     "editorCursor.foreground": "#FF0086", // エディターカーソル色
     // "editorPane.background": "", // 中央に配置されたエディターレイアウトの左側と右側に表示されるエディターペインの背景色
     // ◆選択ハイライト
@@ -404,11 +404,11 @@
     "walkThrough.embeddedEditorBackground": "#FFFFFF", // インタラクティブプレイグラウンドの埋め込みエディターの背景色
     // ◆Git色
     // "gitDecoration.addedResourceForeground": "", // 追加されたGitリソース色ファイルラベルとSCMビューレットに使用されます
-    "gitDecoration.modifiedResourceForeground": "#AD00A1", // 変更されたGitリソース色ファイルラベルとSCMビューレットに使用されます
+    "gitDecoration.modifiedResourceForeground": "#FFB000", // 変更されたGitリソース色ファイルラベルとSCMビューレットに使用されます
     "gitDecoration.deletedResourceForeground": "#FF0086", // 削除されたGitリソース色ファイルラベルとSCMビューレットに使用されます
     "gitDecoration.untrackedResourceForeground": "#00C918", // 追跡されていないGitリソース色ファイルラベルとSCMビューレットに使用されます
-    "gitDecoration.ignoredResourceForeground": "#B0B0B0", // 無視されたGitリソース色ファイルラベルとSCMビューレットに使用されます
-    "gitDecoration.conflictingResourceForeground": "#ABA800", // 競合するGitリソース色ファイルラベルとSCMビューレットに使用されます
+    "gitDecoration.ignoredResourceForeground": "#202020", // 無視されたGitリソース色ファイルラベルとSCMビューレットに使用されます
+    "gitDecoration.conflictingResourceForeground": "#00FFFF", // 競合するGitリソース色ファイルラベルとSCMビューレットに使用されます
     // "gitDecoration.submoduleResourceForeground": "", // サブモジュールリソース色
     // ◆設定エディター色
     // "settings.headerForeground": "", // セクションヘッダーまたはアクティブなタイトルの前景色
