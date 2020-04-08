@@ -52,7 +52,7 @@ Next, search for the "`Kindfeeling`" theme.</br>
 
 - Add or change VS Code settings.
 
-    ```json:setting.json {.copy}
+    ```jsonc:settings.json
     {
       "editor.cursorStyle": "line",
       "editor.cursorWidth": 3,
@@ -113,7 +113,7 @@ Next, search for the "`Kindfeeling`" theme.</br>
 
 - It is convenient to create a `.vscode` folder in the root folder of each project and add the code in the `settings.json` file.
 
-    ```json:setting.json {.copy}
+    ```json:settings.json
     {
       "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#F0F0F0",
@@ -123,6 +123,20 @@ Next, search for the "`Kindfeeling`" theme.</br>
       },
     }
     ```
+
+- How to specify a terminal as Bash and open it in the same folder as the source.</br>
+Please adjust the location of the bash.exe to your environment.
+
+  ```json:settings.json
+    {
+      "terminal.integrated.shell.windows": "${env:windir}\\system32\\cmd.exe",
+      "terminal.integrated.shellArgs.windows": [
+        "/c",
+        "cd /d ${fileDirname}",
+        "& c:\\Git\\bin\\bash.exe"
+      ],
+    }
+  ```
 
 ## About the background of the screenshot  (*No support*)
 
@@ -138,7 +152,7 @@ Next, search for the "`Kindfeeling`" theme.</br>
 
 1. About rewriting contents. Add the lines marked with "\*(asterisk)".
 
-    ```javascript:FileDom.js {.copy}
+    ```javascript:FileDom.js
     getCss() {
       // ???????
       let opacity = this.imageOpacity;
@@ -185,7 +199,7 @@ Depending on your platform, the settings file is located here:
 
     - Useful for portable environments.
 
-    ```css:workbench.desktop.main.css {.copy}
+    ```css:workbench.desktop.main.css
     /*backgroundCover-start*/
     body{
       background-size: cover;
