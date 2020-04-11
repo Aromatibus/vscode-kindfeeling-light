@@ -47,8 +47,8 @@ Next, search for the "`Kindfeeling`" theme.</br>
 
 ## &#x29C9; Extensions needed to get the same look
 
-[BTN_Install]: ./images/BTN_Install(60x16).svg
-[IMG_VSC]: ./images/VSCode_logo(12x12).svg
+[BTN_Install]: images/BTN_Install(60x16).svg
+[IMG_VSC]: images/VSCode_logo(12x12).svg
 
 | &#9715; Extension                                                                                                  |                               ![IMG_VSC][] VScode                                |
 | :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
