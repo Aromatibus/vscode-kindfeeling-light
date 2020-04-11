@@ -1,5 +1,10 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
+<!---
+&#9712; &#9713; &#9714; &#9715;
+&#x273B; &#x273C; &#x273D;
+&#x29C9; &#128466; &#x1f56e; &#x2751;
+-->
 ![vscode-kindfeeling-light](https://github.com/Aromatibus/vscode-kindfeeling-light/raw/master/./screenshots/screenshot.png)
 
 <p align="center">
@@ -8,26 +13,27 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=Aromatibus.kindfeeling"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&labelColor=FF8AD8&color=FEC0FC"/></a>
 </p>
 
-# Contents
+# &#x1f56e; Contents
 <!-- TOC -->
 
-- [Contents](#contents)
-- [Installation](#installation)
-- [Personalization](#personalization)
-  - [Extensions needed to get the same look](#extensions-needed-to-get-the-same-look)
+- [&#x1f56e; Contents](#%f0%9f%95%ae-contents)
+- [&#x1f56e; Installation](#%f0%9f%95%ae-installation)
+- [&#x1f56e; Personalization](#%f0%9f%95%ae-personalization)
+  - [&#x29C9; Extensions needed to get the same look](#%e2%a7%89-extensions-needed-to-get-the-same-look)
     - [Recommended settings](#recommended-settings)
     - [Tips Recommended settings](#tips-recommended-settings)
-  - [About the background of the screenshot  (*No support*)](#about-the-background-of-the-screenshot--no-support)
-    - [The extension "Background-cover" is used](#the-extension-background-cover-is-used)
+  - [&#x29C9; About the background of the screenshot  (*No support*)](#%e2%a7%89-about-the-background-of-the-screenshot-no-support)
+    - [The extension "Background-cover" is used](#the-extension-%22background-cover%22-is-used)
     - [Rewrite directly by yourself](#rewrite-directly-by-yourself)
       - [Settings File Locations](#settings-file-locations)
       - [About rewriting contents](#about-rewriting-contents)
-- [Creating the theme](#creating-the-theme)
-- [License](#license)
+- [&#x1f56e; Creating the theme](#%f0%9f%95%ae-creating-the-theme)
+  - [&#x29C9; 闇って優しい感じなの？(Is the darkness kind feeling?)](#%e2%a7%89-%e9%97%87%e3%81%a3%e3%81%a6%e5%84%aa%e3%81%97%e3%81%84%e6%84%9f%e3%81%98%e3%81%aa%e3%81%aeis-the-darkness-kind-feeling)
+- [&#x1f56e; License](#%f0%9f%95%ae-license)
 
 <!-- /TOC -->
 
-# Installation
+# &#x1f56e; Installation
 
 1. Open the Extensions sidebar in VS Code.</br>
 Next, search for the "`Kindfeeling`" theme.</br>
@@ -37,16 +43,21 @@ Next, search for the "`Kindfeeling`" theme.</br>
 1. Select **Preferences: Color Theme** and choose a "`Kindfeeling`".
 1. Enjoy ! &#x1f60a;
 
-# Personalization
+# &#x1f56e; Personalization
 
-## Extensions needed to get the same look
+## &#x29C9; Extensions needed to get the same look
 
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) [[*Install*]](vscode:extension/CoenraadS.bracket-pair-colorizer-2)
-- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) [[*Install*]](vscode:extension/oderwat.indent-rainbow)
-- [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) [[*Install*]](vscode:extension/fabiospampinato.vscode-highlight)
-- [Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover) [[*Install*]](vscode:extension/manasxx.background-cover)
-- [WordCounter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter) [[*Install*]](vscode:extension/kirozen.wordcounter)
-- [Kitty Time =(＾● ⋏ ●＾)= ෆ](https://marketplace.visualstudio.com/items?itemName=QzSG.kitty-time)&#x1f63b; [[*Install*]](vscode:extension/QzSG.kitty-time)
+[BTN_Install]: ./images/BTN_Install(60x16).svg
+[IMG_VSC]: ./images/VSCode_logo(12x12).svg
+
+| &#9715; Extension                                                                                                  |                               ![IMG_VSC][] VScode                                |
+| :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
+| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | [![[Install]][BTN_Install]](vscode:extension/CoenraadS.bracket-pair-colorizer-2) |
+| [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                       |       [![[Install]][BTN_Install]](vscode:extension/oderwat.indent-rainbow)       |
+| [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight)                  |  [![[Install]][BTN_Install]](vscode:extension/fabiospampinato.vscode-highlight)  |
+| [Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)                   |      [![[Install]][BTN_Install]](vscode:extension/manasxx.background-cover)      |
+| [WordCounter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)                             |        [![[Install]][BTN_Install]](vscode:extension/kirozen.wordcounter)         |
+| [Kitty Time =(＾● ⋏ ●＾)= ෆ](https://marketplace.visualstudio.com/items?itemName=QzSG.kitty-time) &#x1f63b;        |          [![[Install]][BTN_Install]](vscode:extension/QzSG.kitty-time)           |
 
 ### Recommended settings
 
@@ -97,7 +108,7 @@ Next, search for the "`Kindfeeling`" theme.</br>
             "borderStyle": "solid",
           }
         ],
-        "([！”＃＄％＆’（）＝～｜‘｛＋＊｝［］＜＞？＿－＾￥＠「；：」・])": [ // full-width sign
+        "([！"＃＄％＆'（）＝～｜'｛＋＊｝［］＜＞？＿－＾￥＠「；：」・])": [ // full-width sign
           {
             "borderColor": "#FF0086",
             "borderWidth": "1px",
@@ -138,7 +149,7 @@ Please adjust the location of the bash.exe to your environment.
     }
   ```
 
-## About the background of the screenshot  (*No support*)
+## &#x29C9; About the background of the screenshot  (*No support*)
 
 - Images used for screenshots are stored in the [images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/).
 
@@ -212,15 +223,15 @@ Depending on your platform, the settings file is located here:
     /*backgroundCover-end*/
     ```
 
-# Creating the theme
+# &#x1f56e; Creating the theme
 
-[闇って優しい感じなの？(Is the darkness kind feeling?)](Is%20the%20darkness%20kind%20feeling.md)
+## [&#x29C9; 闇って優しい感じなの？(Is the darkness kind feeling?)](Is%20the%20darkness%20kind%20feeling.md)
 
 The text is in Japanese.
 
 Let me just introduce the conclusion.</br>
 It's better to use a warm color light theme with the same brightness of the screen as the room or as dark as possible.
 
-# License
+# &#x1f56e; License
 
-[MIT License](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./LICENSE) &copy; [Aromatibus](https://github.com/Aromatibus)
+[MIT License](../aromatibus.kindfeeling/LICENSE.txt) &copy; [Aromatibus](https://github.com/Aromatibus)
