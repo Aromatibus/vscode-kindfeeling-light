@@ -50,12 +50,11 @@ Next, search for the "`Kindfeeling`" theme.</br>
 
 ## Extensions needed to get the same look
 
-<table border="0" width="100%" height="100%" >
+<table border="0" width="400">
 <tbody>
   <tr valign="middle">
     <td align="left">
-      <a><img src="https://marketplace.visualstudio.com/favicon.ico" width="12"> 
-      Marketplace</a>
+      <a><img src="https://marketplace.visualstudio.com/favicon.ico" width="12"> Marketplace</a>
     </td>
     <td align="center">
       <a><img src="https://code.visualstudio.com/favicon.ico" width="12"> VScode</a>
