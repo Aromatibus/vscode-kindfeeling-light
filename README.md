@@ -10,8 +10,8 @@
 </p>
 
 <p>
-<a href="./README_JP.md">📖日本語の説明</a> /
-<a href="./README_CN.md">📖中文的解释</a>
+<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README_JP.md">📖日本語の説明</a> /
+<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README_CN.md">📖中文的解释</a>
 <a href="https://www.deepl.com/home"> (The translation was done using DeepL.) </a>
 </p>
 
