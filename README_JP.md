@@ -10,8 +10,8 @@
 </p>
 
 <p>
-<a href="./Readme.md">📖English Description</a>
-<a href="./Readme_CN.md"> / 📖中文的解释</a>
+<a href="./README.MD">📖English Description</a>
+<a href="./README_CN.MD"> / 📖中文的解释</a>
 <a href="https://www.deepl.com/home"> （DeepLで翻訳いたしました。） </a>
 </p>
 
