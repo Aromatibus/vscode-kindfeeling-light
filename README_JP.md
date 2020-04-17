@@ -10,52 +10,52 @@
 </p>
 
 <p>
-<a href="./Readme_JP.md">📖日本語の説明</a>
+<a href="./Readme.md">📖English Description</a>
 <a href="./Readme_CN.md"> / 📖中文的解释</a>
-<a href="https://www.deepl.com/home"> (The translation was done using DeepL.) </a>
+<a href="https://www.deepl.com/home"> （DeepLで翻訳いたしました。） </a>
 </p>
 
-# ⧉ Contents
+# ⧉ 目次（Contents）
 <!-- TOC -->
 
-- [⧉ Contents](#%E2%A7%89-contents)
-- [⧉ Installation](#%E2%A7%89-installation)
-- [⧉ Personalization](#%E2%A7%89-personalization)
-  - [Font](#font)
-  - [Extensions needed to get the same look](#extensions-needed-to-get-the-same-look)
-    - [Recommended settings](#recommended-settings)
-    - [Tips Recommended settings](#tips-recommended-settings)
-  - [About the background of the screenshot  (*No support*)](#about-the-background-of-the-screenshot--no-support)
-    - [The extension "Background-cover" is used](#the-extension-background-cover-is-used)
-    - [Rewrite directly by yourself](#rewrite-directly-by-yourself)
-      - [Settings File Locations](#settings-file-locations)
-      - [About rewriting contents](#about-rewriting-contents)
-- [⧉ Creating the theme](#%E2%A7%89-creating-the-theme)
+- [⧉ 目次（Contents）](#%E2%A7%89-%E7%9B%AE%E6%AC%A1contents)
+- [⧉ インストール方法](#%E2%A7%89-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95)
+- [⧉ 自分の好みにカスタマイズしましょう](#%E2%A7%89-%E8%87%AA%E5%88%86%E3%81%AE%E5%A5%BD%E3%81%BF%E3%81%AB%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86)
+  - [使用フォント](#%E4%BD%BF%E7%94%A8%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
+  - [拡張機能を使ってさらに見た目を変更しましょう](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%95%E3%82%89%E3%81%AB%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86)
+    - [オススメの設定](#%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%AE%E8%A8%AD%E5%AE%9A)
+    - [こんな設定もあります](#%E3%81%93%E3%82%93%E3%81%AA%E8%A8%AD%E5%AE%9A%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99)
+  - [スクリーンショットの背景について (*No support*)](#%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-no-support)
+    - [拡張機能 "Background-cover" を使う場合](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD-background-cover-%E3%82%92%E4%BD%BF%E3%81%86%E5%A0%B4%E5%90%88)
+    - [拡張機能を使わずに自分で書き換える場合](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E3%81%AB%E8%87%AA%E5%88%86%E3%81%A7%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E5%A0%B4%E5%90%88)
+      - [設定ファイルの場所](#%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E5%A0%B4%E6%89%80)
+      - [設定ファイルを書き換えます](#%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%81%BE%E3%81%99)
+- [⧉ テーマを作成するにあたって](#%E2%A7%89-%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6)
   - [🕮 闇って優しい感じなの？(Is the darkness kind feeling?)](#%F0%9F%95%AE-%E9%97%87%E3%81%A3%E3%81%A6%E5%84%AA%E3%81%97%E3%81%84%E6%84%9F%E3%81%98%E3%81%AA%E3%81%AEis-the-darkness-kind-feeling)
 - [⧉ License](#%E2%A7%89-license)
 
 <!-- /TOC -->
 
-# ⧉ Installation
+# ⧉ インストール方法
 
-1. Open the Extensions sidebar in VS Code.</br>
-Next, search for the "`Kindfeeling`" theme.</br>
-<img src="https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/vscode_extentions_icon.png" width="32"/> icon for expansions
-1. Click **Install**.
-1. Open the Extensions sidebar in VS Code.</br>
-<img src="https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/vscode_manage_icon.png" width="32"/> icon for manage
-1. Select **Color Theme** and choose a "`Kindfeeling`".
-1. Enjoy ! 😊
+1. サイドバーから拡張機能アイコンを押してメニューを開きます。</br>
+次に検索窓から"`Kindfeeling`"と検索します。</br>
+<img src="https://code.visualstudio.com/assets/docs/editor/extension-gallery/extensions-view-icon.png" width="32"/> 拡張機能のアイコン
+1. **Install**ボタンを押します。
+1. サイドバーから管理アイコンを押してメニューを開きます。</br>
+<img src="https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/vscode_manage_icon.png" width="32"/> 管理のアイコン
+1. 配色テーマを選択して、"`Kindfeeling`"を選びます。
+1. 楽しんでください! 😊
 
-# ⧉ Personalization
+# ⧉ 自分の好みにカスタマイズしましょう
 
-## Font
+## 使用フォント
 
-- <img src="https://blogs.adobe.com/favicon.ico" width=14 height=14/> Introducing [源ノ角ゴシック Source Han Code JP](http://adobe.ly/1JIehdg)
+- <img src="https://blogs.adobe.com/favicon.ico" width=14 height=14/> フォントの解説 [源ノ角ゴシック Source Han Code JP](http://adobe.ly/1JIehdg)
 - <img src="https://github.com/favicon.ico" width=14 height=14/> GitHub [adobe-fonts/source-han-code-jp](https://github.com/adobe-fonts/source-han-code-jp)
-- 🗛 Download directly [Fonts version 2.011R(OTF, OTC)](https://github.com/adobe-fonts/source-han-code-jp/archive/2.011R.zip)
+- 🗛 ダウンロード [Fonts version 2.011R(OTF, OTC)](https://github.com/adobe-fonts/source-han-code-jp/archive/2.011R.zip)
 
-## Extensions needed to get the same look
+## 拡張機能を使ってさらに見た目を変更しましょう
 
 <table border="0" width="400">
 <tbody>
@@ -110,9 +110,9 @@ Next, search for the "`Kindfeeling`" theme.</br>
 </tbody>
 </table>
 
-### Recommended settings
+### オススメの設定
 
-- Add or change VS Code settings.
+- VS Codeの設定を変更します。
 
     ```jsonc:settings.json
     {
@@ -171,9 +171,9 @@ Next, search for the "`Kindfeeling`" theme.</br>
     }
     ```
 
-### Tips Recommended settings
+### こんな設定もあります
 
-- It is convenient to create a `.vscode` folder in the root folder of each project and add the code in the `settings.json` file.
+- 各プロジェクトのルートフォルダーに `.vscode` フォルダーを作成しフォルダー内に`settings.json`ファイルを作成、以下のコードを追加するとプロジェクト毎に見た目を変更できます。
 
     ```json:settings.json
     {
@@ -186,8 +186,8 @@ Next, search for the "`Kindfeeling`" theme.</br>
     }
     ```
 
-- How to specify a terminal as Bash and open it in the same folder as the source.</br>
-Please adjust the location of the bash.exe to your environment.
+- ターミナルをBashにして、開いているソースと同じフォルダーで開く方法。</br>
+`bash.exe`の場所はご利用の環境に合わせてください。
 
   ```json:settings.json
     {
@@ -200,19 +200,19 @@ Please adjust the location of the bash.exe to your environment.
     }
   ```
 
-## About the background of the screenshot  (*No support*)
+## スクリーンショットの背景について (*No support*)
 
-- Images used for screenshots are stored in the [images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/).
+- スクリーンショットに使用されている画像は、[images](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/) フォルダーに保存されています。
 
-### The extension "[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)" is used
+### 拡張機能 "[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)" を使う場合
 
-1. We recommend adjusting the opacity from `0.5` at first.
-1. Customize the "**[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)**".
-1. Rewrite "`FileDom.js`" and set the image display standard to the lower right.
-1. File location : `~\.vscode/extensions\manasxx.background-cover-2.2.3\out\FileDom.js`.
-1. [See here for the location of the file.](https://vscode-docs.readthedocs.io/en/stable/extensions/install-extension/#your-extensions-folder)
+1. 画像の不透明度（opacity）は最初`0.5`くらいがオススメです。
+1. "**[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)**" の設定を直接変更します。
+1. "`FileDom.js`" を変更して表示する画像の基準となる位置を左下にします。
+1. ファイルの場所 : `~\.vscode/extensions\manasxx.background-cover-2.2.3\out\FileDom.js`.
+1. 拡張機能のフォルダーは[こちら](https://vscode-docs.readthedocs.io/en/stable/extensions/install-extension/#your-extensions-folder)を参照してください。
 
-1. About rewriting contents. Add the lines marked with "\*(asterisk)".
+1. 「*（アスタリスク）」の行を追加します。
 
     ```javascript:FileDom.js
     getCss() {
@@ -237,11 +237,11 @@ Please adjust the location of the bash.exe to your environment.
     }
     ```
 
-### Rewrite directly by yourself
+### 拡張機能を使わずに自分で書き換える場合
 
-#### Settings File Locations
+#### 設定ファイルの場所
 
-Depending on your platform, the settings file is located here:
+使用するOSごとに設定ファイルの場所を確認してください。
 
 - <img src="https://www.microsoft.com/favicon.ico" width=14 height=14/> **Windows**</br>
   `\Visual Studio Code\Resource\app\out\vs\workbench\workbench.desktop.main.css`
@@ -250,16 +250,14 @@ Depending on your platform, the settings file is located here:
 - <img src="https://www.cs.helsinki.fi/u/torvalds/linux_logo.gif" width=16 height=16/> **Linux**</br>
   `\Visual Studio Code\resources\app\out\vs\workbench\workbench.desktop.main.css`
 
-#### About rewriting contents
+#### 設定ファイルを書き換えます
 
-1. **Please backup** "`workbench.desktop.main.css`" first.
-1. Add code to the end of the file.
-1. We recommend adjusting the opacity from `0.5` at first.
-1. Change the image and location specified in "`background-image`" according to your environment.
-
-    - In the following example, the "`images`" folder is created in the "`Visual Studio Code`" folder on Windows, and images are saved.
-
-    - Useful for portable environments.
+1. 最初にファイル"`workbench.desktop.main.css`" のバックアップをしましょう。
+1. ファイルの末尾に以下の設定を追加しましょう。
+1. 画像の不透明度（opacity）は最初`0.5`くらいがオススメです。
+1. `background-image`で指定する画像の場所は、自分の環境に合わせて変更します。
+    - 以下の例では、Windowsの「`Visual Stdio Code`」フォルダー内に「`images`」フォルダーを作成し、画像を保存しています。
+    - 以下の例ではポータブル環境向けにフォルダーを指定しています。
 
     ```css:workbench.desktop.main.css
     /*backgroundCover-start*/
@@ -274,14 +272,12 @@ Depending on your platform, the settings file is located here:
     /*backgroundCover-end*/
     ```
 
-# ⧉ Creating the theme
+# ⧉ テーマを作成するにあたって
 
 ## [🕮 闇って優しい感じなの？(Is the darkness kind feeling?)](Is%20the%20darkness%20kind%20feeling.md)
 
-The text is in Japanese.
-
-Let me just introduce the conclusion.</br>
-It's better to use a warm color light theme with the same brightness of the screen as the room or as dark as possible.
+結論からご紹介します</br>
+画面の明るさを部屋と同じくらいか暗めにして、暖色系のライトテーマを使うのがオススメです。
 
 # ⧉ License
 

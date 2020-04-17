@@ -11,51 +11,51 @@
 
 <p>
 <a href="./Readme_JP.md">📖日本語の説明</a>
-<a href="./Readme_CN.md"> / 📖中文的解释</a>
-<a href="https://www.deepl.com/home"> (The translation was done using DeepL.) </a>
+<a href="./Readme.md"> / 📖English Description</a>
+<a href="https://www.deepl.com/home"> （翻译是用DeepL完成的）</a>
 </p>
 
-# ⧉ Contents
+# ⧉ 内容
 <!-- TOC -->
 
-- [⧉ Contents](#%E2%A7%89-contents)
-- [⧉ Installation](#%E2%A7%89-installation)
-- [⧉ Personalization](#%E2%A7%89-personalization)
-  - [Font](#font)
-  - [Extensions needed to get the same look](#extensions-needed-to-get-the-same-look)
-    - [Recommended settings](#recommended-settings)
-    - [Tips Recommended settings](#tips-recommended-settings)
-  - [About the background of the screenshot  (*No support*)](#about-the-background-of-the-screenshot--no-support)
-    - [The extension "Background-cover" is used](#the-extension-background-cover-is-used)
-    - [Rewrite directly by yourself](#rewrite-directly-by-yourself)
-      - [Settings File Locations](#settings-file-locations)
-      - [About rewriting contents](#about-rewriting-contents)
-- [⧉ Creating the theme](#%E2%A7%89-creating-the-theme)
-  - [🕮 闇って優しい感じなの？(Is the darkness kind feeling?)](#%F0%9F%95%AE-%E9%97%87%E3%81%A3%E3%81%A6%E5%84%AA%E3%81%97%E3%81%84%E6%84%9F%E3%81%98%E3%81%AA%E3%81%AEis-the-darkness-kind-feeling)
-- [⧉ License](#%E2%A7%89-license)
+- [⧉ 内容](#%E2%A7%89-%E5%86%85%E5%AE%B9)
+- [⧉ 如何安装](#%E2%A7%89-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85)
+- [⧉ 按你的喜好定制](#%E2%A7%89-%E6%8C%89%E4%BD%A0%E7%9A%84%E5%96%9C%E5%A5%BD%E5%AE%9A%E5%88%B6)
+  - [用的字体](#%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93)
+  - [需要的扩展，才能获得相同的外观](#%E9%9C%80%E8%A6%81%E7%9A%84%E6%89%A9%E5%B1%95%E6%89%8D%E8%83%BD%E8%8E%B7%E5%BE%97%E7%9B%B8%E5%90%8C%E7%9A%84%E5%A4%96%E8%A7%82)
+    - [推荐的设置](#%E6%8E%A8%E8%8D%90%E7%9A%84%E8%AE%BE%E7%BD%AE)
+    - [也有这样的设置](#%E4%B9%9F%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E8%AE%BE%E7%BD%AE)
+  - [关于截图的背景(*不支持*)](#%E5%85%B3%E4%BA%8E%E6%88%AA%E5%9B%BE%E7%9A%84%E8%83%8C%E6%99%AF%E4%B8%8D%E6%94%AF%E6%8C%81)
+    - [当使用"Background-cover"扩展时](#%E5%BD%93%E4%BD%BF%E7%94%A8background-cover%E6%89%A9%E5%B1%95%E6%97%B6)
+    - [直接自己改写](#%E7%9B%B4%E6%8E%A5%E8%87%AA%E5%B7%B1%E6%94%B9%E5%86%99)
+      - [配置文件的位置](#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84%E4%BD%8D%E7%BD%AE)
+      - [重写配置文件](#%E9%87%8D%E5%86%99%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+- [⧉ 创建一个主题时](#%E2%A7%89-%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%BB%E9%A2%98%E6%97%B6)
+  - [🕮 黑暗是 "kind feeling"吗？(Is the darkness kind feeling?)](#%F0%9F%95%AE-%E9%BB%91%E6%9A%97%E6%98%AF-kind-feeling%E5%90%97is-the-darkness-kind-feeling)
+- [⧉ 许可证](#%E2%A7%89-%E8%AE%B8%E5%8F%AF%E8%AF%81)
 
 <!-- /TOC -->
 
-# ⧉ Installation
+# ⧉ 如何安装
 
-1. Open the Extensions sidebar in VS Code.</br>
-Next, search for the "`Kindfeeling`" theme.</br>
-<img src="https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/vscode_extentions_icon.png" width="32"/> icon for expansions
-1. Click **Install**.
-1. Open the Extensions sidebar in VS Code.</br>
-<img src="https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/vscode_manage_icon.png" width="32"/> icon for manage
-1. Select **Color Theme** and choose a "`Kindfeeling`".
-1. Enjoy ! 😊
+1. 在侧边栏中，按扩展图标打开菜单</br>
+接下来，在搜索窗口中搜索 "Kindfeeling"</br>
+<img src="https://code.visualstudio.com/assets/docs/editor/extension-gallery/extensions-view-icon.png" width="32"/> 扩展图标
+1. 按 **设置颜色主题** 按钮
+1. 在侧边栏中，按管理图标打开菜单</br>
+<img src="https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/vscode_manage_icon.png" width="32"/> 管理图标
+1. 选择一个颜色主题，选择 "`Kindfeeling`"
+1. 玩得开心！ 😊
 
-# ⧉ Personalization
+# ⧉ 按你的喜好定制
 
-## Font
+## 用的字体
 
-- <img src="https://blogs.adobe.com/favicon.ico" width=14 height=14/> Introducing [源ノ角ゴシック Source Han Code JP](http://adobe.ly/1JIehdg)
+- <img src="https://blogs.adobe.com/favicon.ico" width=14 height=14/> 字体说明(JP, EN) [源ノ角ゴシック Source Han Code JP](http://adobe.ly/1JIehdg)
 - <img src="https://github.com/favicon.ico" width=14 height=14/> GitHub [adobe-fonts/source-han-code-jp](https://github.com/adobe-fonts/source-han-code-jp)
-- 🗛 Download directly [Fonts version 2.011R(OTF, OTC)](https://github.com/adobe-fonts/source-han-code-jp/archive/2.011R.zip)
+- 🗛 下载 [Fonts version 2.011R(OTF, OTC)](https://github.com/adobe-fonts/source-han-code-jp/archive/2.011R.zip)
 
-## Extensions needed to get the same look
+## 需要的扩展，才能获得相同的外观
 
 <table border="0" width="400">
 <tbody>
@@ -110,9 +110,9 @@ Next, search for the "`Kindfeeling`" theme.</br>
 </tbody>
 </table>
 
-### Recommended settings
+### 推荐的设置
 
-- Add or change VS Code settings.
+- 添加或更改VS代码设置
 
     ```jsonc:settings.json
     {
@@ -171,9 +171,9 @@ Next, search for the "`Kindfeeling`" theme.</br>
     }
     ```
 
-### Tips Recommended settings
+### 也有这样的设置
 
-- It is convenient to create a `.vscode` folder in the root folder of each project and add the code in the `settings.json` file.
+- 在每个项目的根目录下创建一个`.vscode`文件夹，然后在`settings.json`文件中添加代码，很方便。
 
     ```json:settings.json
     {
@@ -186,8 +186,8 @@ Next, search for the "`Kindfeeling`" theme.</br>
     }
     ```
 
-- How to specify a terminal as Bash and open it in the same folder as the source.</br>
-Please adjust the location of the bash.exe to your environment.
+- 如何指定一个终端为Bash，并在与源码相同的文件夹中打开它。</br>
+请根据你的环境调整bash.exe的位置。
 
   ```json:settings.json
     {
@@ -200,19 +200,19 @@ Please adjust the location of the bash.exe to your environment.
     }
   ```
 
-## About the background of the screenshot  (*No support*)
+## 关于截图的背景(*不支持*)
 
-- Images used for screenshots are stored in the [images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/).
+- 用于截图的图片存储在"[images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/)"中
 
-### The extension "[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)" is used
+### 当使用"[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)"扩展时
 
-1. We recommend adjusting the opacity from `0.5` at first.
-1. Customize the "**[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)**".
-1. Rewrite "`FileDom.js`" and set the image display standard to the lower right.
-1. File location : `~\.vscode/extensions\manasxx.background-cover-2.2.3\out\FileDom.js`.
-1. [See here for the location of the file.](https://vscode-docs.readthedocs.io/en/stable/extensions/install-extension/#your-extensions-folder)
+1. 我们建议先将不透明度从`0.5`开始调整
+1. 自定义"**[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)**"
+1. 重写"`FileDom.js "并将图像显示标准设置为右下角。
+1. 文件位置 : `~\.vscode/extensions\manasxx.background-cover-2.2.3\out\FileDom.js`.
+1. [文件的位置请看这里](https://vscode-docs.readthedocs.io/en/stable/extensions/install-extension/#your-extensions-folder)
 
-1. About rewriting contents. Add the lines marked with "\*(asterisk)".
+1. 关于改写内容。增加标有 "*（星号）"的行文
 
     ```javascript:FileDom.js
     getCss() {
@@ -237,11 +237,11 @@ Please adjust the location of the bash.exe to your environment.
     }
     ```
 
-### Rewrite directly by yourself
+### 直接自己改写
 
-#### Settings File Locations
+#### 配置文件的位置
 
-Depending on your platform, the settings file is located here:
+请确认您所使用的每个操作系统的配置文件的位置
 
 - <img src="https://www.microsoft.com/favicon.ico" width=14 height=14/> **Windows**</br>
   `\Visual Studio Code\Resource\app\out\vs\workbench\workbench.desktop.main.css`
@@ -250,16 +250,14 @@ Depending on your platform, the settings file is located here:
 - <img src="https://www.cs.helsinki.fi/u/torvalds/linux_logo.gif" width=16 height=16/> **Linux**</br>
   `\Visual Studio Code\resources\app\out\vs\workbench\workbench.desktop.main.css`
 
-#### About rewriting contents
+#### 重写配置文件
 
-1. **Please backup** "`workbench.desktop.main.css`" first.
-1. Add code to the end of the file.
-1. We recommend adjusting the opacity from `0.5` at first.
-1. Change the image and location specified in "`background-image`" according to your environment.
-
-    - In the following example, the "`images`" folder is created in the "`Visual Studio Code`" folder on Windows, and images are saved.
-
-    - Useful for portable environments.
+1. 首先，对文件"`workbench.desktop.main.css`"进行备份
+1. 让我们在文件的末尾添加以下设置
+1. 建议一开始将图像的不透明度设置为`0.5`左右
+1. 用 "background-image "指定的图片的位置应该根据你的环境改变
+    - 在下面的例子中，在Windows的 "Visual Stdio Code "文件夹中创建了 "images "文件夹，并将图像存储在那里
+    - 下面的示例为可移植环境指定了一个文件夹
 
     ```css:workbench.desktop.main.css
     /*backgroundCover-start*/
@@ -274,16 +272,16 @@ Depending on your platform, the settings file is located here:
     /*backgroundCover-end*/
     ```
 
-# ⧉ Creating the theme
+# ⧉ 创建一个主题时
 
-## [🕮 闇って優しい感じなの？(Is the darkness kind feeling?)](Is%20the%20darkness%20kind%20feeling.md)
+## [🕮 黑暗是 "kind feeling"吗？(Is the darkness kind feeling?)](Is%20the%20darkness%20kind%20feeling.md)
 
-The text is in Japanese.
+正文是用日语写的
 
-Let me just introduce the conclusion.</br>
-It's better to use a warm color light theme with the same brightness of the screen as the room or as dark as possible.
+我只介绍一下结论
+最好是用暖色系的灯光主题，屏幕的亮度要和房间的亮度一样，或者是尽可能的暗一些
 
-# ⧉ License
+# ⧉ 许可证
 
 <details>
   <summary>
@@ -305,49 +303,3 @@ It's better to use a warm color light theme with the same brightness of the scre
   <img alt="trending-weekly" src="https://vsmarketplacebadge.apphb.com/trending-weekly/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&label=Weekly&labelColor=900050&color=D00080"/>
   <img alt="trending-monthly" src="https://vsmarketplacebadge.apphb.com/trending-monthly/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&label=Monthly&labelColor=E00000&color=F03030"/>
 </details>
-
-<!---
-
-&#x1f60a;
-&#x1f63b;
-
-&#x1f56e;</br>
-&#x29C9; &#x2751;</br>
-&#9712; &#9713; &#9714; &#9715;</br>
-&#x273B; &#x273C; &#x273D;</br>
-&#11214;&#11047;&#11048;</br>
-
-&#x2318;&#x21E7;
-&#128475;
-
-&#x01D40C;&#x01D408;&#x01D413; &#x01D40B;&#x01D422;&#x01D41C;&#x01D41E;&#x01D427;&#x01D42C;&#x01D41E; &#x01D4D0;&#x01D4FB;&#x01D4F8;&#x01D4F6;&#x01D4EA;&#x01D4FD;&#x01D4F2;&#x01D4EB;&#x01D4FE;&#x01D4FC;
-
-Emoji-Log: A new way to write Git commit messages.
-https://opensource.com/article/19/2/emoji-log-git-commit-messages
-
-絵文字:メッセージサンプル
-📦 新規(New):ファイルを追加
-👌 改善(IMPROVE): .gitignore
-🐛 修正(FIX): Readme.md
-📖 ドキュメント(DOC): License.txt
-🚀 リリース(RELEASE): バージョン2.0.0
-✅ テスト(TEST): 模擬テスト
-❌ 削除・失敗
-🤖 TEST
-‼️ BREAKING
-
-[𝐌𝐈𝐓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞](../aromatibus.kindfeeling/LICENSE.txt) &copy; [𝓐𝓻𝓸𝓶𝓪𝓽𝓲𝓫𝓾𝓼](https://github.com/Aromatibus)
-
-[IMG_VSC]: https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/VSCode_logo(12x12).png
-
-[BTN_Install]: https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/BTN_Install(60x16).png
-
-| ◳ Marketplace                                                                                                      |                               ![IMG_VSC][] VScode                                |
-| :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
-| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | [![[Install]][BTN_Install]](vscode:extension/CoenraadS.bracket-pair-colorizer-2) |
-| [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                       |       [![[Install]][BTN_Install]](vscode:extension/oderwat.indent-rainbow)       |
-| [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight)                  |  [![[Install]][BTN_Install]](vscode:extension/fabiospampinato.vscode-highlight)  |
-| [Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)                   |      [![[Install]][BTN_Install]](vscode:extension/manasxx.background-cover)      |
-| [Kitty Time =(＾● ⋏ ●＾)= ෆ](https://marketplace.visualstudio.com/items?itemName=QzSG.kitty-time) 😺               |          [![[Install]][BTN_Install]](vscode:extension/QzSG.kitty-time)           |
-
---->
