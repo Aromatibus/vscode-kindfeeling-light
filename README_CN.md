@@ -10,8 +10,8 @@
 </p>
 
 <p>
-<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README_JP.md">📖日本語の説明</a> /
-<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README.md">📖English Description</a>
+<a href="README_JP.md">📖日本語の説明</a> /
+<a href="README.md">📖English Description</a>
 <a href="https://www.deepl.com/home"> （翻译是用DeepL完成的）</a>
 </p>
 
@@ -202,7 +202,7 @@
 
 ## 关于截图的背景(*不支持*)
 
-- 用于截图的图片存储在"[images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/)"中
+- 用于截图的图片存储在"[images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/images/)"中
 
 ### 当使用"[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)"扩展时
 

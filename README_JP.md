@@ -10,8 +10,8 @@
 </p>
 
 <p>
-<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README.md">📖English Description</a> /
-<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README_CN.md">📖中文的解释</a>
+<a href="README.md">📖English Description</a> /
+<a href="README_CN.md">📖中文的解释</a>
 <a href="https://www.deepl.com/home"> （DeepLで翻訳いたしました。） </a>
 </p>
 
@@ -202,7 +202,7 @@
 
 ## スクリーンショットの背景について (*No support*)
 
-- スクリーンショットに使用されている画像は、[images](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/) フォルダーに保存されています。
+- スクリーンショットに使用されている画像は、[images](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/images/) フォルダーに保存されています。
 
 ### 拡張機能 "[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)" を使う場合
 

@@ -10,8 +10,8 @@
 </p>
 
 <p>
-<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README_JP.md">📖日本語の説明</a> /
-<a href="https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/README_CN.md">📖中文的解释</a>
+<a href="README_JP.md">📖日本語の説明</a> /
+<a href="README_CN.md">📖中文的解释</a>
 <a href="https://www.deepl.com/home"> (The translation was done using DeepL.) </a>
 </p>
 
@@ -202,7 +202,7 @@ Please adjust the location of the bash.exe to your environment.
 
 ## About the background of the screenshot  (*No support*)
 
-- Images used for screenshots are stored in the [images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/./images/).
+- Images used for screenshots are stored in the [images folder](https://github.com/Aromatibus/vscode-kindfeeling-light/blob/master/images/).
 
 ### The extension "[Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)" is used
 
