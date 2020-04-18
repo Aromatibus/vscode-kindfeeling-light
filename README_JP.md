@@ -283,9 +283,9 @@
 
 <details>
   <summary>
-    <a href="../aromatibus.kindfeeling/LICENSE.txt">𝐌𝐈𝐓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞</a>
+    <a href="LICENSE.txt">𝐌𝐈𝐓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞</a>
     &copy;
-    <a href="[../aromatibus.kindfeeling/LICENSE.txt](https://github.com/Aromatibus)">𝓐𝓻𝓸𝓶𝓪𝓽𝓲𝓫𝓾𝓼</a>
+    <a href="https://github.com/Aromatibus">𝓐𝓻𝓸𝓶𝓪𝓽𝓲𝓫𝓾𝓼</a>
   </summary>
   </br>
   </br>
