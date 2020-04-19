@@ -10,7 +10,8 @@
 </p>
 
 <p>
-<a href="README.md">📖English Description</a> /
+<a href="README.md">📖English Description</a>
+ /
 <a href="README_CN.md">📖中文的解释</a>
 <a href="https://www.deepl.com/home"> （DeepLで翻訳いたしました。） </a>
 </p>
@@ -301,49 +302,3 @@
   <img alt="trending-weekly" src="https://vsmarketplacebadge.apphb.com/trending-weekly/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&label=Weekly&labelColor=900050&color=D00080"/>
   <img alt="trending-monthly" src="https://vsmarketplacebadge.apphb.com/trending-monthly/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&label=Monthly&labelColor=E00000&color=F03030"/>
 </details>
-
-<!---
-
-&#x1f60a;
-&#x1f63b;
-
-&#x1f56e;</br>
-&#x29C9; &#x2751;</br>
-&#9712; &#9713; &#9714; &#9715;</br>
-&#x273B; &#x273C; &#x273D;</br>
-&#11214;&#11047;&#11048;</br>
-
-&#x2318;&#x21E7;
-&#128475;
-
-&#x01D40C;&#x01D408;&#x01D413; &#x01D40B;&#x01D422;&#x01D41C;&#x01D41E;&#x01D427;&#x01D42C;&#x01D41E; &#x01D4D0;&#x01D4FB;&#x01D4F8;&#x01D4F6;&#x01D4EA;&#x01D4FD;&#x01D4F2;&#x01D4EB;&#x01D4FE;&#x01D4FC;
-
-Emoji-Log: A new way to write Git commit messages.
-https://opensource.com/article/19/2/emoji-log-git-commit-messages
-
-絵文字:メッセージサンプル
-📦 新規(New):ファイルを追加
-👌 改善(IMPROVE): .gitignore
-🐛 修正(FIX): Readme.md
-📖 ドキュメント(DOC): License.txt
-🚀 リリース(RELEASE): バージョン2.0.0
-✅ テスト(TEST): 模擬テスト
-❌ 削除・失敗
-🤖 TEST
-‼️ BREAKING
-
-[𝐌𝐈𝐓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞](../aromatibus.kindfeeling/LICENSE.txt) &copy; [𝓐𝓻𝓸𝓶𝓪𝓽𝓲𝓫𝓾𝓼](https://github.com/Aromatibus)
-
-[IMG_VSC]: https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/VSCode_logo(12x12).png
-
-[BTN_Install]: https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/BTN_Install(60x16).png
-
-| ◳ Marketplace                                                                                                      |                               ![IMG_VSC][] VScode                                |
-| :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
-| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | [![[Install]][BTN_Install]](vscode:extension/CoenraadS.bracket-pair-colorizer-2) |
-| [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                       |       [![[Install]][BTN_Install]](vscode:extension/oderwat.indent-rainbow)       |
-| [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight)                  |  [![[Install]][BTN_Install]](vscode:extension/fabiospampinato.vscode-highlight)  |
-| [Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)                   |      [![[Install]][BTN_Install]](vscode:extension/manasxx.background-cover)      |
-| [Kitty Time =(＾● ⋏ ●＾)= ෆ](https://marketplace.visualstudio.com/items?itemName=QzSG.kitty-time) 😺               |          [![[Install]][BTN_Install]](vscode:extension/QzSG.kitty-time)           |
-
---->

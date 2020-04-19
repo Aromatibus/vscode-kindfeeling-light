@@ -10,7 +10,8 @@
 </p>
 
 <p>
-<a href="README_JP.md">📖日本語の説明</a> /
+<a href="README_JP.md">📖日本語の説明</a>
+ /
 <a href="README_CN.md">📖中文的解释</a>
 <a href="https://www.deepl.com/home"> (The translation was done using DeepL.) </a>
 </p>
@@ -335,19 +336,4 @@ https://opensource.com/article/19/2/emoji-log-git-commit-messages
 ❌ 削除・失敗
 🤖 TEST
 ‼️ BREAKING
-
-[𝐌𝐈𝐓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞](../aromatibus.kindfeeling/LICENSE.txt) &copy; [𝓐𝓻𝓸𝓶𝓪𝓽𝓲𝓫𝓾𝓼](https://github.com/Aromatibus)
-
-[IMG_VSC]: https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/VSCode_logo(12x12).png
-
-[BTN_Install]: https://raw.githubusercontent.com/Aromatibus/vscode-kindfeeling-light/master/images/BTN_Install(60x16).png
-
-| ◳ Marketplace                                                                                                      |                               ![IMG_VSC][] VScode                                |
-| :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
-| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | [![[Install]][BTN_Install]](vscode:extension/CoenraadS.bracket-pair-colorizer-2) |
-| [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                       |       [![[Install]][BTN_Install]](vscode:extension/oderwat.indent-rainbow)       |
-| [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight)                  |  [![[Install]][BTN_Install]](vscode:extension/fabiospampinato.vscode-highlight)  |
-| [Background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)                   |      [![[Install]][BTN_Install]](vscode:extension/manasxx.background-cover)      |
-| [Kitty Time =(＾● ⋏ ●＾)= ෆ](https://marketplace.visualstudio.com/items?itemName=QzSG.kitty-time) 😺               |          [![[Install]][BTN_Install]](vscode:extension/QzSG.kitty-time)           |
-
 --->
