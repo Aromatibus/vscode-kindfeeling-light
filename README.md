@@ -10,10 +10,14 @@
 </p>
 
 <p>
-<a href="README_JP.md">📖日本語の説明</a>
+<a href="README_JP.md">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png" height="12">日本語の説明
+</a>
  /
-<a href="README_CN.md">📖中文的解释</a>
-<a href="https://www.deepl.com/home"> (The translation was done using DeepL.) </a>
+<a href="README_CN.md">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png" height="12">中文的解释
+</a>
+<a href="https://www.deepl.com/home"> (<img src="https://www.deepl.com/img/favicon/favicon_96.png" height="12">The translation was done using DeepL)</a>
 </p>
 
 # ⧉ Contents

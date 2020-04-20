@@ -10,10 +10,14 @@
 </p>
 
 <p>
-<a href="README.md">📖English Description</a>
+<a href="README.md">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" height="12">English Description
+</a>
  /
-<a href="README_CN.md">📖中文的解释</a>
-<a href="https://www.deepl.com/home"> （DeepLで翻訳いたしました。） </a>
+<a href="README_CN.md">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png" height="12">中文的解释
+</a>
+<a href="https://www.deepl.com/home"> (<img src="https://www.deepl.com/img/favicon/favicon_96.png" height="12">翻訳はDeepLを使用しました)</a>
 </p>
 
 # ⧉ 目次（Contents）
