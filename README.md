@@ -303,7 +303,7 @@ It's better to use a warm color light theme with the same brightness of the scre
   </br>
   <img alt="version" src="https://vsmarketplacebadge.apphb.com/version/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&label=marketplace&labelColor=30B1D2&color=38DBFA"/>
   <img alt="installs-short" src="https://vsmarketplacebadge.apphb.com/installs-short/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&labelColor=FF7F00&color=FF9731"/>
-  <img alt="rating-star" src="https://vsmarketplacebadge.apphb.com/rating-star/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&labelColor=FF8AD8&color=FEC0FC"/>
+  <img alt="rating-star" src="https://vsmarketplacebadge.apphb.com/rating-star/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&labelColor=FF4FFF&color=FF70FF"/>
   </br>
   <img alt="downloads-short" src="https://vsmarketplacebadge.apphb.com/downloads-short/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&labelColor=007000&color=00C000"/>
   <img alt="trending-daily" src="https://vsmarketplacebadge.apphb.com/trending-daily/Aromatibus.kindfeeling.svg?style=for-the-badge&logo=visual-studio-code&label=Daily&labelColor=0030C0&color=0050FF"/>
